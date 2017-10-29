@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: PRANAV
+Build-Jdk: 9.0.1
+Implementation-Title: TMANF-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/TMANF-1/
+Created-By: Maven Integration for Eclipse
+
